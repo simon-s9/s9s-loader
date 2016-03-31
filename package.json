@@ -1,6 +1,6 @@
 {
   "name": "s9s-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple namespace loader",
   "main": "index.js",
   "scripts": {
