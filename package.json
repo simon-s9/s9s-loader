@@ -1,0 +1,11 @@
+{
+  "name": "s9s-loader",
+  "version": "1.0.0",
+  "description": "A Simple namespace loader",
+  "main": "NamespaceLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
